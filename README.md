@@ -7,7 +7,7 @@ Document and Paper to demonstrate the CPE on the isolation protocol
 * Describe the process used to isolate human pathogenic virus.
 * Setup an expirment that uses this same process excluding adding a sample.  Instead just use Monkey Kidney Cells + UTM + any additional antibiotics that are usually added.  Also ensure to keep the same ratio of nutriants as in the standard protocol.
 * Observe
-* Setup a real negative control expirement that DOES NOT use UTM, Monkey Kidney Cells, etc. (maybe too costly and not needed).
+* Hypothesis - the virus isolation protocol causes CPE.
 
 
 ## Background Reading
