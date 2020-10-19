@@ -35,8 +35,9 @@ Since we are NOT working with infectious substances, it maybe possible to try th
 
 ### Components needed
 * Small Incubator that can manage temperature at least between 35°C to 37°C
+** [Mini Lab Dry Bath](https://www.amazon.com/Incubator-Four-Es-Scientific-Programmable/dp/B087735Y6K/ref=sr_1_13?dchild=1&keywords=lab+incubator&qid=1603076607&sr=8-13) - $200 USD including shipping ~ $300 NZD
 * Already have 1600x microscope
-* Need to consider percuring an inverted microscope (so that we can look at the sample from under neath the tissue).
+* Need to consider percuring an inverted microscope (so that we can look at the sample from the bottom of the test tube).
 * Order RhMK
 * Order UTM
 * Antibiotics (need to reference the scientific papers that recommend specifics)
