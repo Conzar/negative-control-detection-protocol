@@ -1,4 +1,4 @@
-# negative-control-isolation-protocol
+# negative-control-detection-protocol
 
 Document and Paper to demonstrate the CPE on the "detection" protocol
 
