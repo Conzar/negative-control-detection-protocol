@@ -29,27 +29,27 @@ observe for 5 to 10 days!
 
 * Pathlab.co.nz
 
-## Feasability of Home Trial
+## Feasibility of Home Trial
 
 Since we are NOT working with infectious substances, it maybe possible to try this expirement at home first before spending on a laboratory. This will also allow the authors to gain first hand knowledge over the process so that when we do go to a lab, we will better be able to communicate our requirements.
 
-### Components needed
-* Small Incubator that can manage temperature at least between 35°C to 37°C
-** [Mini Lab Dry Bath](https://www.amazon.com/Incubator-Four-Es-Scientific-Programmable/dp/B087735Y6K/ref=sr_1_13?dchild=1&keywords=lab+incubator&qid=1603076607&sr=8-13) - $200 USD including shipping ~ $300 NZD
+### Hardware
+* See incubation_monitor/Equipment.md
+* DEPRICATED - Small Incubator that can manage temperature at least between 35°C to 37°C
+  ** [Mini Lab Dry Bath](https://www.amazon.com/Incubator-Four-Es-Scientific-Programmable/dp/B087735Y6K/ref=sr_1_13?dchild=1&keywords=lab+incubator&qid=1603076607&sr=8-13) - $200 USD including shipping ~ $300 NZD
 * Already have 1600x microscope
-* Need to consider percuring an inverted microscope (so that we can look at the sample from the bottom of the test tube).
-* Order RhMK
-* Order UTM
-* Antibiotics (need to reference the scientific papers that recommend specifics)
-* Solutions (not sure what is needed her but possible a medium that is used to suspend the RhMK).
+* Inverted Microscope - too costly and unavailable
+
+### Lab Materials
+
+* RhMK - Vero Cell Line E6
+* Bovine Fetal Serum
+* Antibiotics & Antifungals
 
 ## Cost
 
-* Incubator ?
-* Inverted Microscope ?
-* RhMK - $1.5 USD / tube to $6.50USD / tube
-* UTM ?
-* Antibiotics ?
-* Solutions ?
-* Test Tubes ?
-* Measuring tubes ?
+* Incubator Monitor ~ $100 NZD
+* Laboratory Products (flasks, pipets, etc) $20 NZD
+* [Vero C1008 [Vero 76, clone E6, Vero E6]](https://www.sigmaaldrich.com/catalog/product/sigma/cb_85020206?lang=en&region=NZ) - $1,290.00 NZD
+* Bovine Fetal Serum - [Premium Plus](https://www.thermofisher.com/order/catalog/product/A4766801#/A4766801) - $1,285 NZD
+* Antibiotics + Antifungal - [Gentamicin/Amphotericin Solution](https://www.thermofisher.com/order/catalog/product/R01510#/R01510) - $154.00 NZD 
